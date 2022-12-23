@@ -31,3 +31,12 @@ body{
     margin-left: 15px;
     
 }
+
+
+
+@media screen and (max-width: 600px) {
+    .grid{
+        grid-template-columns: 1fr;
+    }
+    
+}
